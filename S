@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/brython@3.14.0/brython.min.js"></script>
+</head>
+<body onload="brython()">
+    <h2>Brython Test</h2>
+    <script type="text/python">
+        from browser import alert
+        alert("এটি ফোনেও কাজ করবে!")
+    </script>
+</body>
+</html>
