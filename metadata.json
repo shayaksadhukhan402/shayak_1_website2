@@ -1,0 +1,5 @@
+{
+  "name": "Classic Snake Mobile",
+  "description": "A high-fidelity recreation of the Python Pygame snake game with mobile-friendly touch controls and classic aesthetics.",
+  "requestFramePermissions": []
+}
